@@ -1,0 +1,22 @@
+[submodule "subprojects/prboom-plus"]
+	path = subprojects/prboom-plus
+	url = git@github.com:zeta-group/prboom-plus
+	branch = gus-experimental
+[submodule "subprojects/pcre2"]
+	path = subprojects/pcre2
+	url = git@github.com:luvit/pcre2
+[submodule "subprojects/sdl2-net"]
+	path = subprojects/sdl2-net
+	url = git@github.com:SDL-mirror/SDL_net
+[submodule "subprojects/sdl2-image"]
+	path = subprojects/sdl2-image
+	url = git@github.com:SDL-mirror/SDL_image
+[submodule "subprojects/sdl2"]
+	path = subprojects/sdl2
+	url = git@github.com:SDL-mirror/SDL
+[submodule "subprojects/subprojects/sdl2-net"]
+	path = subprojects/subprojects/sdl2-net
+	url = git@github.com:zeta-group/SDL_net
+[submodule "subprojects/sdl2-mixer"]
+	path = subprojects/sdl2-mixer
+	url = git@github.com:SDL-mirror/SDL_mixer
